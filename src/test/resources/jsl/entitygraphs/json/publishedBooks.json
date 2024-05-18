@@ -1,0 +1,20 @@
+{
+  "publisherName":"Spring Mathematics",
+  "location":{
+    "email":"wills@email.com",
+    "country":"United State",
+    "state":"Georgia",
+    "city":"Atlanta",
+    "street":"123 Mountain View"
+  },
+  "books": [
+    {
+      "isbn":"12545XYZ",
+      "title":"The Blue Ocean",
+      "bookType":"MAGAZINE",
+      "numberOfPages":15,
+      "publishDate":"2024-02-01",
+      "bookVersion":1
+    }
+  ]
+}
